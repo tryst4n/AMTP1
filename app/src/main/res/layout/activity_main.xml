@@ -51,7 +51,8 @@
             android:layout_marginRight="40dp"
             android:layout_marginTop="30dp"
             android:backgroundTint="#FF5050"
-            android:textColorHint="#CA9B9B"></EditText>
+            android:textColorHint="#CA9B9B"
+            android:textColor="#FF3B3B"></EditText>
 
         <EditText
             android:id="@+id/EDMotdePasse"
@@ -64,7 +65,8 @@
             android:drawableLeft="@drawable/baseline_cyclone_24"
             android:drawablePadding="10dp"
             android:hint="Mot de passe"
-            android:textColorHint="#CA9B9B"></EditText>
+            android:textColorHint="#CA9B9B"
+            android:textColor="#FF3B3B"></EditText>
 
         <Button
             android:id="@+id/BoutonCon"
